@@ -3,16 +3,8 @@ outs:
   path: Weights
   files:
   - relpath: best.pt
+    md5: a8d97a66f967cb5199bf1d6ffafceb61
+    size: 92801856
+  - relpath: pre.pt
     md5: 3cc28722ae604a321772e47d15b1e109
     size: 92796821
-    cloud:
-      storage:
-        etag: 089b92dea3fdd083031001
-        version_id: '1704826408241435'
-  - relpath: pre.pt
-    md5: 54cc9f709dee68a56ac8fa8767be676d
-    size: 92796821
-    cloud:
-      storage:
-        etag: 08efb8caa3fdd083031001
-        version_id: '1704826407918703'
