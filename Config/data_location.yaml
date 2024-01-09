@@ -1,0 +1,6 @@
+path: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v1_1i\Data
+train: images/train 
+val: images/val 
+
+names:
+  0: coc
