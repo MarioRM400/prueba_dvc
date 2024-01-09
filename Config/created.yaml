@@ -1,0 +1,7 @@
+DATA_FOLDER: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v2_1\Data
+INNER_PROJECT_DIR: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v2_1
+imgs_folder: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v2_1\Data/images
+imgs_train_folder: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v2_1\Data/images/train
+imgs_val_folder: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v2_1\Data/images\val
+lbs_folder: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v2_1\Data/labels
+lbs_train_folder: C:\ConceivableProjects\coc_follicular_h\ARDUCAM\v2_1\Data/labels/train
