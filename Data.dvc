@@ -1013,279 +1013,647 @@ outs:
   - relpath: images/train/MainCamera-Recording_050124_1405_frame_237.png
     md5: 213e7da99df9c77e9bd7bb3f66a1ac30
     size: 20749
+    cloud:
+      storage:
+        etag: 08a3b8f38f82d183031001
+        version_id: '1704827708824611'
   - relpath: images/train/MainCamera-Recording_050124_1405_frame_237.png:Zone.Identifier
     md5: 296674997e4591770d3e441c4ddf4863
     size: 56
+    cloud:
+      storage:
+        etag: 088be6879082d183031001
+        version_id: '1704827709158155'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_46.png
     md5: dbd4d170d7e022c8265aa3efe1d977f1
     size: 21329
+    cloud:
+      storage:
+        etag: 08b0aef98f82d183031001
+        version_id: '1704827708921648'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_46.png:Zone.Identifier
     md5: 296674997e4591770d3e441c4ddf4863
     size: 56
+    cloud:
+      storage:
+        etag: 08c8c1f08f82d183031001
+        version_id: '1704827708776648'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_544 (1).png
     md5: d8300017f0f88b5916d86bf5952ff24b
     size: 21750
+    cloud:
+      storage:
+        etag: 08ddddf78f82d183031001
+        version_id: '1704827708894941'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_544 (1).png:Zone.Identifier
     md5: 296674997e4591770d3e441c4ddf4863
     size: 56
+    cloud:
+      storage:
+        etag: 0889e3f18f82d183031001
+        version_id: '1704827708797321'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_544.png
     md5: d8300017f0f88b5916d86bf5952ff24b
     size: 21750
+    cloud:
+      storage:
+        etag: 08a5cbf88f82d183031001
+        version_id: '1704827708908965'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_544.png:Zone.Identifier
     md5: 296674997e4591770d3e441c4ddf4863
     size: 56
+    cloud:
+      storage:
+        etag: 08e992fe8f82d183031001
+        version_id: '1704827709000041'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_550.png
     md5: 753883a459969bfedf5b37c2cf7bc530
     size: 19653
+    cloud:
+      storage:
+        etag: 088dd7f78f82d183031001
+        version_id: '1704827708894093'
   - relpath: images/train/MainCamera-Recording_050124_1504_frame_550.png:Zone.Identifier
     md5: dce5191790621b5e424478ca69c47f55
     size: 50
+    cloud:
+      storage:
+        etag: 08ade2fd8f82d183031001
+        version_id: '1704827708993837'
   - relpath: images/train/MainCamera-Recording_050124_1507_frame_1436.png
     md5: 0411ad52b6581288688c6fbe5112eb00
     size: 32778
+    cloud:
+      storage:
+        etag: 0895aef78f82d183031001
+        version_id: '1704827708888853'
   - relpath: images/train/MainCamera-Recording_050124_1507_frame_1436.png:Zone.Identifier
     md5: 296674997e4591770d3e441c4ddf4863
     size: 56
+    cloud:
+      storage:
+        etag: 08edbdf08f82d183031001
+        version_id: '1704827708776173'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2483.jpg
     md5: c70dc85a7c37c0cfb21fe09f28f7a9ae
     size: 87791
+    cloud:
+      storage:
+        etag: 08cfd6fb8f82d183031001
+        version_id: '1704827708959567'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2484.jpg
     md5: e0180f57feedde5ca23dbe9ee3b23e28
     size: 109474
+    cloud:
+      storage:
+        etag: 08afc68a9082d183031001
+        version_id: '1704827709203247'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2485.jpg
     md5: 92da521ea54baefb11773d5005adcf17
     size: 80075
+    cloud:
+      storage:
+        etag: 08f1c1ff8f82d183031001
+        version_id: '1704827709022449'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2486.jpg
     md5: 2ff454c530f4c83ec4a41fcf787be478
     size: 93776
+    cloud:
+      storage:
+        etag: 08899bfa8f82d183031001
+        version_id: '1704827708935561'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2487.jpg
     md5: 585722b0871fc8a368e4884e41d88470
     size: 88852
+    cloud:
+      storage:
+        etag: 08f6edfe8f82d183031001
+        version_id: '1704827709011702'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2488.jpg
     md5: 5de752fb557131f053d95521ee8c636a
     size: 86994
+    cloud:
+      storage:
+        etag: 089df1fd8f82d183031001
+        version_id: '1704827708995741'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2489.jpg
     md5: daad4171b6a57132588630e10394ae60
     size: 81295
+    cloud:
+      storage:
+        etag: 08f8c4fd8f82d183031001
+        version_id: '1704827708990072'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2490.jpg
     md5: 47e4d8354e5f7d914a060d25de12f99c
     size: 81562
+    cloud:
+      storage:
+        etag: 0898b9fd8f82d183031001
+        version_id: '1704827708988568'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2491.jpg
     md5: e0f7c38cac4cdc88faf7196f6165b80f
     size: 83545
+    cloud:
+      storage:
+        etag: 0897f3fc8f82d183031001
+        version_id: '1704827708979607'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2492.jpg
     md5: 47bf6809d14afd788a28744f10a8c9ea
     size: 85707
+    cloud:
+      storage:
+        etag: 08f7a0f98f82d183031001
+        version_id: '1704827708919927'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2493.jpg
     md5: 642458944152131f6fecf8dd45ef009c
     size: 80841
+    cloud:
+      storage:
+        etag: 08fbd7fd8f82d183031001
+        version_id: '1704827708992507'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2494.jpg
     md5: 7a5cd1777c0642ac49d7074897fbff73
     size: 85519
+    cloud:
+      storage:
+        etag: 08e3b8fd8f82d183031001
+        version_id: '1704827708988515'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2495.jpg
     md5: 15cd8cd3e54e6273767755fbbee6e2ca
     size: 84825
+    cloud:
+      storage:
+        etag: 08d1f7ff8f82d183031001
+        version_id: '1704827709029329'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2496.jpg
     md5: ebd4815b2b4e3d16ab25c9bc0b95a972
     size: 84492
+    cloud:
+      storage:
+        etag: 08e3d7fd8f82d183031001
+        version_id: '1704827708992483'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2497.jpg
     md5: 3c8100f1a70a32fdea6a46c50a03f12b
     size: 80829
+    cloud:
+      storage:
+        etag: 08c7b6ff8f82d183031001
+        version_id: '1704827709020999'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2498.jpg
     md5: 590b3eedc2f67c8a3b2a4ddcf818d800
     size: 83136
+    cloud:
+      storage:
+        etag: 08d0edfe8f82d183031001
+        version_id: '1704827709011664'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2499.jpg
     md5: 36860a1e073fabf9079eb7977e5cb270
     size: 85099
+    cloud:
+      storage:
+        etag: 08d7b1f98f82d183031001
+        version_id: '1704827708922071'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_2500.jpg
     md5: ea60f8a88d694eef2a9dd2517143e248
     size: 83807
+    cloud:
+      storage:
+        etag: 08a783f98f82d183031001
+        version_id: '1704827708916135'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4485.jpg
     md5: 23c57e027e9d5d97fde2bce7406b254c
     size: 97592
+    cloud:
+      storage:
+        etag: 08ea89fc8f82d183031001
+        version_id: '1704827708966122'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4486.jpg
     md5: 0a46b551fa38d25184e45d1285b28ac5
     size: 101581
+    cloud:
+      storage:
+        etag: 088da9fd8f82d183031001
+        version_id: '1704827708986509'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4487.jpg
     md5: 94f3890b25eb9006d86458c2e06085b1
     size: 103504
+    cloud:
+      storage:
+        etag: 08ccf6ff8f82d183031001
+        version_id: '1704827709029196'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4488.jpg
     md5: 417295e8b775c74494012eb657f931e5
     size: 106136
+    cloud:
+      storage:
+        etag: 08f4d4809082d183031001
+        version_id: '1704827709041268'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4489.jpg
     md5: e54e19ba00981a9597885b64f6a0e633
     size: 97788
+    cloud:
+      storage:
+        etag: 08cb8fff8f82d183031001
+        version_id: '1704827709016011'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4490.jpg
     md5: ed26ac70ae047f8ecdd13e68a1f678d7
     size: 102974
+    cloud:
+      storage:
+        etag: 089c8d829082d183031001
+        version_id: '1704827709064860'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4491.jpg
     md5: b0d1a45691adf21b855ba3feb1962000
     size: 104861
+    cloud:
+      storage:
+        etag: 08bdcd809082d183031001
+        version_id: '1704827709040317'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4492.jpg
     md5: 35c67082791dd2d9e0c8cbc63ba738a4
     size: 104611
+    cloud:
+      storage:
+        etag: 08fbcffe8f82d183031001
+        version_id: '1704827709007867'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4493.jpg
     md5: 22096ad01bb0e7dfa4a049cfee0f5ccc
     size: 102828
+    cloud:
+      storage:
+        etag: 08ddaf819082d183031001
+        version_id: '1704827709052893'
   - relpath: images/train/MainCamera-Recording_050124_1529_frame_4494.jpg
     md5: 8fd02e58314df5da3eccbdf70a990adf
     size: 99176
+    cloud:
+      storage:
+        etag: 08d9b3fd8f82d183031001
+        version_id: '1704827708987865'
   - relpath: images/train/MainCamera-Recording_050124_1559_frame_1369.png
     md5: c2c83bdf7c83cd8cedf01516c7dcc2ca
     size: 32254
+    cloud:
+      storage:
+        etag: 08e595f78f82d183031001
+        version_id: '1704827708885733'
   - relpath: images/train/MainCamera-Recording_050124_1559_frame_1369.png:Zone.Identifier
     md5: 296674997e4591770d3e441c4ddf4863
     size: 56
+    cloud:
+      storage:
+        etag: 0895e2f18f82d183031001
+        version_id: '1704827708797205'
   - relpath: images/train/MainCamera-Recording_050124_1613_frame_95.png
     md5: 33ee896987511e9f5235eb33e02dca5b
     size: 34392
+    cloud:
+      storage:
+        etag: 08d993fb8f82d183031001
+        version_id: '1704827708951001'
   - relpath: images/train/MainCamera-Recording_050124_1613_frame_95.png:Zone.Identifier
     md5: dce5191790621b5e424478ca69c47f55
     size: 50
+    cloud:
+      storage:
+        etag: 08eaa7fe8f82d183031001
+        version_id: '1704827709002730'
   - relpath: images/train/MainCamera-Recording_050124_1618_frame_932.png
     md5: 721470c4ba4177218d1c2dba17aa5144
     size: 36850
+    cloud:
+      storage:
+        etag: 08d9c0849082d183031001
+        version_id: '1704827709104217'
   - relpath: images/train/MainCamera-Recording_050124_1618_frame_932.png:Zone.Identifier
     md5: dce5191790621b5e424478ca69c47f55
     size: 50
+    cloud:
+      storage:
+        etag: 08c7e1f08f82d183031001
+        version_id: '1704827708780743'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_1.jpg
     md5: a613be9999039bf2d86b275a06da08c0
     size: 53280
+    cloud:
+      storage:
+        etag: 089791f88f82d183031001
+        version_id: '1704827708901527'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_10.jpg
     md5: 3e446343766adae680bd5bbf69f7b1f9
     size: 59701
+    cloud:
+      storage:
+        etag: 08bd9dfb8f82d183031001
+        version_id: '1704827708952253'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_11.jpg
     md5: 278ac3913dd3a7814a5d9ecf5c433e46
     size: 60940
+    cloud:
+      storage:
+        etag: 08bcf5bf8f82d183031001
+        version_id: '1704827707980476'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_12.jpg
     md5: df46ac79fad74e322b6a93b1899307bd
     size: 65162
+    cloud:
+      storage:
+        etag: 08f69afd8f82d183031001
+        version_id: '1704827708984694'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_13.jpg
     md5: e1b6db7bed9a09168063adb10b070818
     size: 56298
+    cloud:
+      storage:
+        etag: 089c95ff8f82d183031001
+        version_id: '1704827709016732'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_14.jpg
     md5: 9b5e36b55771ffb469c7400d66dc159e
     size: 58044
+    cloud:
+      storage:
+        etag: 0885f4f58f82d183031001
+        version_id: '1704827708865029'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_15.jpg
     md5: 959d404826026f0df60ed54c48615b13
     size: 60833
+    cloud:
+      storage:
+        etag: 08f19ffc8f82d183031001
+        version_id: '1704827708968945'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_16.jpg
     md5: cbedef3c8a62d20a95384e83b4efb2f8
     size: 61068
+    cloud:
+      storage:
+        etag: 08ec8cf88f82d183031001
+        version_id: '1704827708900972'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_17.jpg
     md5: 8cc2dc44fe3876dc4e6f67bd28f21850
     size: 56160
+    cloud:
+      storage:
+        etag: 08ec97f68f82d183031001
+        version_id: '1704827708869612'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_18.jpg
     md5: f988d52254762fa087460cff65fa88fc
     size: 60598
+    cloud:
+      storage:
+        etag: 08fbd9f78f82d183031001
+        version_id: '1704827708894459'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_19.jpg
     md5: b409940939bcd620bf4b0b0efb38ee3d
     size: 62895
+    cloud:
+      storage:
+        etag: 08d9ebfd8f82d183031001
+        version_id: '1704827708995033'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_2.jpg
     md5: 9f14eca1d57ea25c047cc0dfc1795bef
     size: 58563
+    cloud:
+      storage:
+        etag: 08c4c9fe8f82d183031001
+        version_id: '1704827709007044'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_20.jpg
     md5: 3738c2868cb504fda83762ef0bf25f0c
     size: 63908
+    cloud:
+      storage:
+        etag: 0882effe8f82d183031001
+        version_id: '1704827709011842'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_21.jpg
     md5: 854364508f22307afe3a9586411bc5e8
     size: 57136
+    cloud:
+      storage:
+        etag: 08acb1df8f82d183031001
+        version_id: '1704827708496044'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_3.jpg
     md5: 00cdf5e6d0d237d9eed6c864b7c61b1e
     size: 61497
+    cloud:
+      storage:
+        etag: 08fc9af68f82d183031001
+        version_id: '1704827708870012'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_4.jpg
     md5: 3a726e54c6366aa2826240b586e2c80a
     size: 57516
+    cloud:
+      storage:
+        etag: 08fe88fd8f82d183031001
+        version_id: '1704827708982398'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_481.jpg
     md5: 24da42b99e29ef84885edefc93700d8b
     size: 55080
+    cloud:
+      storage:
+        etag: 088c83fa8f82d183031001
+        version_id: '1704827708932492'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_482.jpg
     md5: 93c944d1e67dd71fcfcd126b6e31cbcd
     size: 46934
+    cloud:
+      storage:
+        etag: 08c4edf58f82d183031001
+        version_id: '1704827708864196'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_483.jpg
     md5: 4032ad64f8bcddfc46c297bd77bba02c
     size: 84246
+    cloud:
+      storage:
+        etag: 08d3d1f98f82d183031001
+        version_id: '1704827708926163'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_484.jpg
     md5: 8efb8807b1a08d42f86954091cc82b5c
     size: 101584
+    cloud:
+      storage:
+        etag: 08d1ec839082d183031001
+        version_id: '1704827709093457'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_485.jpg
     md5: f4294e1014cc7a03fb58978206a275f0
     size: 77779
+    cloud:
+      storage:
+        etag: 088cf0fd8f82d183031001
+        version_id: '1704827708995596'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_486.jpg
     md5: 65955c3fd63a73537dc933dfffa6dcfc
     size: 69541
+    cloud:
+      storage:
+        etag: 08f9fe809082d183031001
+        version_id: '1704827709046649'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_487.jpg
     md5: 95c3587f8a43fe75f19059c3e12fdaf3
     size: 74739
+    cloud:
+      storage:
+        etag: 0895acfa8f82d183031001
+        version_id: '1704827708937749'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_488.jpg
     md5: df3631b5c170e9863492121e8e7f103d
     size: 77977
+    cloud:
+      storage:
+        etag: 08c0c8fe8f82d183031001
+        version_id: '1704827709006912'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_5.jpg
     md5: 25b5162a9a700fbf8ab900e3e891e1f4
     size: 72687
+    cloud:
+      storage:
+        etag: 08c994fd8f82d183031001
+        version_id: '1704827708983881'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_6.jpg
     md5: 2f46ebb5c1d1e7ac9fbaa3c6404b12ec
     size: 73629
+    cloud:
+      storage:
+        etag: 08cac9fe8f82d183031001
+        version_id: '1704827709007050'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_7.jpg
     md5: 41c1b416ece17c72b789077a57fa34fb
     size: 72380
+    cloud:
+      storage:
+        etag: 08a295fd8f82d183031001
+        version_id: '1704827708983970'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_8.jpg
     md5: 05137f2c31c40c4be03f95bcb0891600
     size: 72068
+    cloud:
+      storage:
+        etag: 08c5b7fd8f82d183031001
+        version_id: '1704827708988357'
   - relpath: images/train/MainCamera-Recording_050124_1629_frame_9.jpg
     md5: a5a412f98729d136dd88f411fa6e6076
     size: 56825
+    cloud:
+      storage:
+        etag: 08e5fdf68f82d183031001
+        version_id: '1704827708882661'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_100.jpg
     md5: 618e79f234b51943fefbf7048d0f95e5
     size: 84936
+    cloud:
+      storage:
+        etag: 08b19efa8f82d183031001
+        version_id: '1704827708935985'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_107.jpg
     md5: 48d8ce56579983036e9698795918b0ac
     size: 81372
+    cloud:
+      storage:
+        etag: 08ece7fa8f82d183031001
+        version_id: '1704827708945388'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_114.jpg
     md5: 0f364e6ead5b396edf6a359051886bf5
     size: 82749
+    cloud:
+      storage:
+        etag: 08cba4fd8f82d183031001
+        version_id: '1704827708985931'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_121.jpg
     md5: 9906ba013aead6575f90ba81ece638ff
     size: 77811
+    cloud:
+      storage:
+        etag: 08cb9cfc8f82d183031001
+        version_id: '1704827708968523'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_128.jpg
     md5: cd390639587b95dab91c8b9b9c5d8081
     size: 81567
+    cloud:
+      storage:
+        etag: 08e7dff98f82d183031001
+        version_id: '1704827708927975'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_135.jpg
     md5: 49afc254fa8fb3b894d0d28aad377c67
     size: 80479
+    cloud:
+      storage:
+        etag: 08929ffa8f82d183031001
+        version_id: '1704827708936082'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_142.jpg
     md5: c87048a3dd565a041aa9140238eedb20
     size: 77890
+    cloud:
+      storage:
+        etag: 08a2d0fb8f82d183031001
+        version_id: '1704827708958754'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_149.jpg
     md5: 304f24d5f4a7122eae5fbd3eb8ec744c
     size: 78967
+    cloud:
+      storage:
+        etag: 08bec6fd8f82d183031001
+        version_id: '1704827708990270'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_156.jpg
     md5: 942ab0e9bd31132edaf50f7415449dff
     size: 78081
+    cloud:
+      storage:
+        etag: 08bca9fb8f82d183031001
+        version_id: '1704827708953788'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_1579.png
     md5: 9c65b24c49b1706cebd1b99e84a0f8ec
     size: 33315
+    cloud:
+      storage:
+        etag: 08e6d6f98f82d183031001
+        version_id: '1704827708926822'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_1579.png:Zone.Identifier
     md5: dce5191790621b5e424478ca69c47f55
     size: 50
+    cloud:
+      storage:
+        etag: 08d1c5fd8f82d183031001
+        version_id: '1704827708990161'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_163.jpg
     md5: f32ebf25b2ce7339238df0bd09b6a04b
     size: 80602
+    cloud:
+      storage:
+        etag: 089eb5fd8f82d183031001
+        version_id: '1704827708988062'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_170.jpg
     md5: 5fb6003352ad0bcf9754f9cd90ac3d1b
     size: 78818
+    cloud:
+      storage:
+        etag: 08a1b8fe8f82d183031001
+        version_id: '1704827709004833'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_72.jpg
     md5: 96cdc47535702bb6f7969437464da738
     size: 77428
+    cloud:
+      storage:
+        etag: 08f9d2f98f82d183031001
+        version_id: '1704827708926329'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_79.jpg
     md5: b69970a5371ee87dac0c27b3211bd8a4
     size: 78711
+    cloud:
+      storage:
+        etag: 08b9a6fd8f82d183031001
+        version_id: '1704827708986169'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_86.jpg
     md5: b0be7faa3038896b715b0138bd2112d7
     size: 75688
+    cloud:
+      storage:
+        etag: 088090fa8f82d183031001
+        version_id: '1704827708934144'
   - relpath: images/train/MainCamera-Recording_050124_1632_frame_93.jpg
     md5: f838cef28ec5c15312d74b7dae1edd12
     size: 67615
+    cloud:
+      storage:
+        etag: 08faf9f98f82d183031001
+        version_id: '1704827708931322'
   - relpath: images/train/Test_P2_20231219_084332_frame_10.jpg
     md5: 3f76aa1643a4e79517108006e32c7b92
     size: 61515
